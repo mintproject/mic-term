@@ -52,7 +52,6 @@ class SocketService {
       });
 
       this.socket.on("backspace", input => {
-        //Runs this event function socket receives "input" events from socket.io client
         this.pty.write('\b \b');
       });
     });

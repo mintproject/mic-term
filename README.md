@@ -1,6 +1,4 @@
-# Mat
-
-Mat is an application to assist scientists in encapsulating their softwares (e.g., models, pre-processing and post-processing codes, visualizations) 
+# MIC terminal
 
 ## How to run?
 
